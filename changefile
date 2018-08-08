@@ -1,3 +1,7 @@
 This is third assignment. change content on local in file1  move to LR and leave
 Create new file on remote and merge.
+<<<<<<< HEAD
 see append on local.
+=======
+see append on remote.
+>>>>>>> b51466ae32ea69f90d3aa53c57832bf26dbaa439
